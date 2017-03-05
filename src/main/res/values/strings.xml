@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style0">EQ : Custom</string>
+    <string name="music_style1">EQ : Rock</string>
+    <string name="music_style2">EQ : Pop</string>
+    <string name="music_style3">EQ : Jazz</string>
+    <string name="music_style4">EQ : Classic</string>
+    <string name="music_style5">EQ : Flat</string>
+    <string name="music_style6">EQ : Voice</string>
+    <string name="muteon">MUTE : ON</string>
+    <string name="muteoff">MUTE : OFF</string>
+    <string name="loudon">LOUD : ON</string>
+    <string name="loudoff">LOUD : OFF</string>
+    <string name="radio">Radio</string>
+    <string name="dvd">DVD</string>
+    <string name="music">Music</string>
+    <string name="media">Video</string>
+    <string name="avin">AVIN</string>
+    <string name="ipod">Ipod</string>
+    <string name="ok">OK</string>
+    <string name="menu">MENU</string>
+    <string name="info">INFO</string>
+    <string name="dev">DEV</string>
+    <string name="c_dan">℃</string>
+    <string name="f_dan">F</string>
+    <string name="clear_message">Total clear %1$s process, %2$s memory.</string>
+</resources>
